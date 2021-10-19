@@ -1,2 +1,3 @@
 # Exceptions
-Objectives: ● Implement exception handling.
+Objectives: <br>
+Implement exception handling.
